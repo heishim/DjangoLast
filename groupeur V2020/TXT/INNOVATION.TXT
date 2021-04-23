@@ -1,0 +1,12 @@
+INNOV1441001C|88Z01Z|1|Prostatectomie radiale : valorisation sur GHS origine
+INNOV1441001H|77Z01Z|1|Forfait innovation HIFU
+INNOV1490002N|77Z02Z|1|Forfait innovation ARGUS II
+INNOV1741003H|77Z03Z|1|Forfait Innovation ECHOPULSE
+INNOV1801006I|77Z06Z|1|Forfait innovation PULSANTE étude
+INNOV1801006S|77Z07Z|1|Forfait innovation PULSANTE additionnel
+INNOV1808004N|77Z04Z|1|Forfait innovation METAGLUT1
+INNOV1890005N|77Z05Z|1|Forfait innovation RETINA IMPLANT
+INNOV190007Z|77Z08Z|1|Forfait innovation WISE CRT
+INNOV1941008N|77Z09Z|1|Forfait innovation dNerva
+INNOV1941008Z|77Z09Z|1|Forfait innovation dNerva
+INNOV1904009N|77Z10Z|1|Forfait BrainPort Vision Pro

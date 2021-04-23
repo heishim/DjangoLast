@@ -1,0 +1,543 @@
+0|01|Affections du système nerveux
+0|02|Affections de l'oeil
+0|03|Affections des oreilles, du nez, de la gorge, de la bouche et des dents
+0|04|Affections de l'appareil respiratoire
+0|05|Affections de l'appareil circulatoire
+0|06|Affections du tube digestif
+0|07|Affections du système hépatobiliaire et du pancréas
+0|08|Affections et traumatismes de l'appareil musculosquelettique et du tissu conjonctif
+0|09|Affections de la peau, des tissus souscutanés et des seins
+0|10|Affections endocriniennes, métaboliques et nutritionnelles
+0|11|Affections du rein et des voies urinaires
+0|12|Affections de l'appareil génital masculin
+0|13|Affections de l'appareil génital féminin
+0|14|Grossesses pathologiques, accouchements et affections du post-partum
+0|15|Nouveau-nés, prématurés et affections de la période périnatale
+0|16|Affections du sang et des organes hématopoïétiques
+0|17|Affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+0|18|Maladies infectieuses et parasitaires
+0|19|Maladies et troubles mentaux
+0|20|Troubles mentaux organiques liés à l'absorption de drogues ou induits par celles-ci
+0|21|Traumatismes, allergies et empoisonnements
+0|22|Brûlures
+0|23|Facteurs influant sur l'état de santé et autres motifs de recours aux services de santé
+0|24|@Séjours de moins de 2 jours
+0|25|Maladies dues à une infection par le VIH
+0|26|Traumatismes multiples graves
+0|27|Transplantations d'organes
+0|28|Séances
+0|90|Erreurs et autres séjours inclassables
+1|01|01|Migraines et céphalées
+1|01|02|Convulsions hyperthermiques
+1|01|03|Épilepsies
+1|01|04|Méningites virales
+1|01|05|Infections du système nerveux sauf méningites virales
+1|01|06|Tumeurs malignes du système nerveux
+1|01|07|Autres tumeurs du système nerveux
+1|01|08|Maladies dégénératives du système nerveux
+1|01|09|Hydrocéphalies
+1|01|10|Affections et lésions du rachis et de la moelle
+1|01|11|Anévrysmes cérébraux non rompus
+1|01|12|Autres affections cérébrovasculaires
+1|01|13|Affections des nerfs crâniens et rachidiens
+1|01|14|Autres affections du système nerveux
+1|01|15|Troubles de la conscience et comas d'origine non traumatique
+1|01|16|Troubles du sommeil
+1|01|17|Accidents vasculaires intracérébraux non transitoires
+1|01|18|Autres accidents vasculaires cérébraux non transitoires
+1|01|19|Accidents ischémiques transitoires
+1|01|20|Sclérose en plaques et ataxie cérébelleuse
+1|01|21|Lésions crâniennes et cérébrales traumatiques
+1|01|22|Douleurs chroniques irréductibles
+1|01|23|Explorations et surveillance de la CMD 01
+1|01|24|Autres symptômes et recours aux soins de la CMD 01
+1|01|25|Anomalies de la démarche et troubles apparentés
+1|01|26|Autres affections neurologiques du nouveau-né
+1|01|27|Troubles de la régulation thermique du nouveau-né
+1|02|01|Hyphéma
+1|02|02|Infections oculaires aigües sévères
+1|02|03|Affections oculaires d'origine neurologique
+1|02|04|Autres affections oculaires
+1|02|05|Explorations et surveillance de la CMD 02
+1|02|06|Autres symptômes et recours aux soins de la CMD 02
+1|03|01|Traumatismes du nez et déformations nasales
+1|03|02|Otites moyennes et infections des voies aériennes supérieures
+1|03|03|Troubles de l'équilibre
+1|03|04|Épistaxis
+1|03|05|Tumeurs malignes ORL
+1|03|06|Autres affections ORL-Stomato
+1|03|07|Affections de la bouche et des dents
+1|03|08|Explorations et surveillance de la CMD 03
+1|03|09|Autres symptômes et recours aux soins de la CMD 03
+1|04|01|Bronchites et asthme
+1|04|02|Bronchiolites
+1|04|03|Pneumopathies et pleurésies banales
+1|04|04|Grippes
+1|04|05|Infections et inflammations respiratoires
+1|04|06|Fibroses kystiques
+1|04|07|Tuberculose
+1|04|08|Bronchopneumopathies chroniques obstructives
+1|04|09|Tumeurs de l'appareil respiratoire
+1|04|10|Embolies pulmonaires
+1|04|11|Signes et symptômes respiratoires
+1|04|12|Pneumothorax
+1|04|13|Oedème pulmonaire et détresses respiratoires
+1|04|14|Maladies pulmonaires interstitielles
+1|04|15|Autres affections de l'appareil respiratoire
+1|04|16|Traumatismes thoraciques
+1|04|17|Épanchements pleuraux
+1|04|18|Suivis de greffe pulmonaire
+1|04|19|Autres symptômes et recours aux soins de la CMD 04
+1|04|20|Explorations et surveillance de la CMD 04
+1|04|21|Autres affections respiratoires du nouveau-né
+1|05|01|Syncopes et lipothymies                                                         
+1|05|02|Angine de poitrine                                                              
+1|05|03|Thrombophlébites veineuses profondes                                            
+1|05|04|Arythmies et troubles de la conduction                                          
+1|05|05|Insuffisances cardiaques et états de choc                                       
+1|05|06|Cardiopathies congénitales et valvulopathies                                    
+1|05|07|Troubles vasculaires périphériques                                              
+1|05|08|Douleurs thoraciques                                                            
+1|05|09|Arrêt cardiaque                                                                 
+1|05|10|Hypertension artérielle                                                         
+1|05|11|Athérosclérose coronarienne                                                     
+1|05|12|Autres affections de l'appareil circulatoire                                    
+1|05|13|Endocardites aiguës et subaiguës                                                
+1|05|14|Autres symptômes et recours aux soins de la CMD 05
+1|05|15|Explorations et surveillance de la CMD 05
+1|05|16|*** Erreur. DXCAT non attribuée (>G904) ***
+1|06|01|Affections sévères du tube digestif
+1|06|02|Autres gastroentérites et maladies diverses du tube digestif
+1|06|03|Douleurs abdominales
+1|06|04|Hémorragies digestives
+1|06|05|Tumeurs malignes de l'oesophage et de l'estomac
+1|06|06|Autres tumeurs malignes de l'appareil digestif
+1|06|07|Invaginations intestinales aigües
+1|06|08|Occlusions intestinales
+1|06|09|Maladies inflammatoires de l'intestin
+1|06|10|Autres affections digestives
+1|06|11|Tumeurs bénignes de l'appareil digestif
+1|06|12|Ulcères gastroduodénaux compliqués
+1|06|13|Ulcères gastroduodénaux non compliqués
+1|06|14|Suivi de greffes de l'appareil digestif
+1|06|15|Soins de stomies digestives
+1|06|16|Autres symptômes et recours aux soins de la CMD 06
+1|06|17|Explorations et surveillance de la CMD 06
+1|06|18|Autres affections digestives du nouveau-né
+1|07|01|Affections des voies biliaires
+1|07|02|Cirrhoses alcooliques
+1|07|03|Autres cirrhoses et fibrose hépatique
+1|07|04|Affections hépatiques sévères
+1|07|05|Autres affections hépatiques
+1|07|06|Hépatites chroniques
+1|07|07|Pancréatites aigües
+1|07|08|Autres affections non malignes du pancréas
+1|07|09|Affections malignes du système hépatobiliaire et du pancréas
+1|07|10|Suivi de greffes hépatiques et pancréatiques
+1|07|11|Explorations et surveillance de la CMD 07
+1|07|12|Autres symptômes et recours aux soins de la CMD 07
+1|07|13|Ictères du nouveau-né
+1|08|01|Fractures, entorses, luxations du bras et de l'avant-bras
+1|08|02|Fractures, entorses, luxations de la main
+1|08|03|Fractures, entorses, luxations du pied
+1|08|04|Fractures de la hanche et du bassin
+1|08|05|Fractures du fémur
+1|08|06|Fractures, entorses, luxations de la jambe (sauf avant-pied)
+1|08|07|Entorses et luxations du bassin et de la hanche
+1|08|08|Arthropathies non spécifiques
+1|08|09|Maladies osseuses et arthropathies spécifiques
+1|08|10|Tumeurs malignes des os
+1|08|11|Fractures pathologiques et autres affections malignes de l'appareil musculosquelettique et du tissu conjonctif
+1|08|12|Entorses et luxations du rachis
+1|08|13|Fractures du rachis
+1|08|14|Sciatiques et autres radiculopathies
+1|08|15|Autres rachialgies
+1|08|16|Autres pathologies rachidiennes relevant d'un traitement médical
+1|08|17|Rhumatismes et raideurs articulaires
+1|08|18|Affections du tissu conjonctif
+1|08|19|Tendinites, myosites et bursites
+1|08|20|Ostéomyélites aigües (y compris vertébrales) et arthrites septiques
+1|08|21|Ostéomyélites chroniques
+1|08|22|Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif
+1|08|23|Ablation de matériel sans acte classant
+1|08|24|Autres affections de l'appareil musculosquelettique et du tissu conjonctif
+1|08|25|Algoneurodystrophie
+1|08|26|Autres symptômes et recours aux soins de la CMD 08
+1|08|27|Explorations et surveillance de la CMD 08
+1|09|01|Traumatismes de la peau, des tissus souscutanés
+1|09|02|Lésions, infections et inflammations de la peau et des tissus souscutanés
+1|09|03|Ulcères cutanés
+1|09|04|Tumeurs de la peau
+1|09|05|Autres affections dermatologiques
+1|09|06|Affections dermatologiques sévères
+1|09|07|Affections non malignes des seins
+1|09|08|Cancers du sein
+1|09|09|Autres symptômes et recours aux soins pour des affections de la peau
+1|09|10|Autres symptômes et recours aux soins pour des affections du sein
+1|09|11|Explorations et surveillance des affections de la peau
+1|09|12|Explorations et surveillance des affections du sein
+1|10|01|Diabète
+1|10|02|Acidocétose et coma diabétique
+1|10|03|Troubles métaboliques
+1|10|04|Troubles nutritionnels divers
+1|10|05|Obésité
+1|10|06|Maladies métaboliques congénitales sévères
+1|10|07|Autres maladies métaboliques congénitales
+1|10|08|Tumeurs des glandes endocrines
+1|10|09|Autres troubles endocriniens
+1|10|10|Autres symptômes et recours aux soins de la CMD 10
+1|10|11|Explorations et surveillance de la CMD 10
+1|10|12|Autres affections de la CMD 10 chez un nouveau-né
+1|10|13|Problèmes alimentaires du nouveau-né
+1|11|01|Lithiases urinaires
+1|11|02|Infection du rein et des uretères
+1|11|03|Insuffisance rénale
+1|11|04|Tumeurs des reins et des voies urinaires
+1|11|05|Autres affections de l'appareil urinaire
+1|11|06|Rétrécissements urétraux
+1|11|07|Signes et symptômes urologiques
+1|11|08|Suivi de greffe rénale
+1|11|09|Autres symptômes et recours aux soins de la CMD 11
+1|11|10|Explorations et surveillance de la CMD 11
+1|11|11|Autres affections urologiques du nouveau-né
+1|12|01|Prostatites aigües et orchites
+1|12|02|Autres infections et inflammations de l''appareil génital masculin
+1|12|03|Affections malignes de l''appareil génital masculin
+1|12|04|Hypertrophie prostatique bénigne
+1|12|05|Autres affections de l''appareil génital masculin
+1|12|06|Explorations et surveillance de la CMD 12
+1|12|07|Autres symptômes et recours aux soins de la CMD 12
+1|13|01|Infections de l'utérus et de ses annexes
+1|13|02|Autres infections de l'appareil génital féminin
+1|13|03|Tumeurs malignes de l'appareil génital féminin
+1|13|04|Autres tumeurs de l'appareil génital féminin
+1|13|05|Autres affections de l'appareil génital féminin
+1|13|06|Assistance médicale à la procréation
+1|13|07|Explorations et surveillance de la CMD 13
+1|13|08|Autres symptômes et recours aux soins de la CMD 13
+1|14|02|Avortements
+1|14|03|Grossesses ectopiques
+1|14|04|Menaces d'avortement
+1|14|05|Faux travail, menaces d'accouchement prématuré et placenta praevia
+1|14|06|DP de la CMD 14 ne permettant pas l'orientation en GHM Parking CMD14 (non testé dans l'arbre, destiné à l'impression)
+1|14|07|Affections de l'ante partum
+1|14|08|Affections du post partum et du post abortum
+1|14|09|Affections de l'antepartum (non testée)
+1|14|10|Affections du postpartum ou post abortum (non testée)
+1|15|00|Attribué à tous les DP compatibles avec cette CMD
+1|16|01|Affections de la rate
+1|16|02|Donneurs de moelle
+1|16|03|Déficits immunitaires
+1|16|04|Autres affections du système réticuloendothélial ou immunitaire
+1|16|05|Troubles sévères de la lignée érythrocytaire
+1|16|06|Autres troubles de la lignée érythrocytaire
+1|16|07|Purpuras
+1|16|08|Autres troubles de la coagulation
+1|16|09|Explorations et surveillance de la CMD 16
+1|16|10|Autres symptômes et recours aux soins de la CMD 16
+1|16|11|Autres affections hématologiques du nouveau-né
+1|17|01|Leucémies aigües
+1|17|05|Chimiothérapie
+1|17|06|Irradiation
+1|17|08|Explorations et surveillance des affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+1|17|10|Lymphomes et autres affections malignes lymphoïdes
+1|17|11|Hémopathies myéloïdes chroniques
+1|17|12|Autres affections et tumeurs de siège imprécis ou diffus
+1|18|01|Maladies virales
+1|18|02|Fièvres d'étiologie indéterminée
+1|18|03|Septicémies
+1|18|04|Paludisme
+1|18|05|Maladies infectieuses sévères
+1|18|06|Autres maladies infectieuses ou parasitaires
+1|18|07|Autres symptômes et recours aux soins de la CMD 18
+1|18|08|Explorations et surveillance de la CMD 18
+1|18|09|Autres maladies infectieuses du nouveau-né
+1|19|01|Troubles aigus de l'adaptation et du fonctionnement psychosocial
+1|19|02|Anorexie mentale et boulimie
+1|19|03|Autres troubles de la personnalité et du comportement avec réactions impulsives
+1|19|04|Troubles bipolaires et syndromes dépressifs sévères
+1|19|05|Autres psychoses
+1|19|06|Troubles mentaux d'origine organique et retards mentaux
+1|19|07|Maladies et troubles du développement psychologiques de l'enfance
+1|19|08|Autres maladies et troubles mentaux de l'enfance
+1|19|09|Troubles de l'humeur
+1|19|10|Autres troubles mentaux
+1|19|11|Névroses autres que les névroses dépressives
+1|19|12|Névroses dépressives
+1|19|13|Explorations et surveillance de la CMD 19
+1|19|14|Autres symptômes et recours aux soins de la CMD 19
+1|20|01|Toxicomanies non éthyliques avec dépendance
+1|20|02|Toxicomanies non éthyliques sans dépendance
+1|20|03|Éthylisme avec dépendance
+1|20|04|Éthylisme aigu
+1|20|05|Troubles mentaux organiques induits par l'alcool ou d'autres substances
+1|21|01|Effets toxiques des médicaments et substances biologiques
+1|21|02|Effets toxiques des autres substances chimiques
+1|21|03|Autres effets toxiques 
+1|21|04|Réactions allergiques
+1|21|05|Traumatismes imprécis
+1|21|06|Maltraitance
+1|21|07|Autres traumatismes et effets nocifs autres que les intoxications 
+1|21|08|Rejets de greffe
+1|21|09|Autres complications iatrogéniques
+1|22|01|Brûlures et gelures non étendues
+1|22|02|Brûlures étendues
+1|23|00|Soins Palliatifs
+1|23|01|Rééducation
+1|23|02|Chimiothérapie pour affections non tumorales
+1|23|03|Soins de contrôle chirurgicaux
+1|23|05|Traitement prophylactiques
+1|23|06|Actes non effectués en raison d'une contre-indication
+1|23|07|Convalescences et autres motifs sociaux
+1|23|09|Autres motifs de recours aux soins
+1|23|10|Explorations et surveillance de la CMD 23
+1|23|11|Autres facteurs influant sur l'état de santé
+1|23|12|Autres motifs concernant majoritairement la petite enfance
+1|23|13|Désensibilisations et tests allergologiques
+1|23|14|Codes réservés et interdits
+1|90|00|Diagnostic interdit en DP et DR - Autorisé ailleurs
+1|90|01|Diagnostic interdit en DP et DR - Cause externe de morbidité
+1|90|02|Diagnostic interdit en DP, DR et DA - Catégories et sous-catégories non vides ou code père interdit
+1|90|03|Diagnostic interdit en DP - Autorisé ailleurs
+2|XX|0|Traumatismes crâniens
+2|XX|1|Insuffisance cardiaque congestive
+2|XX|2|Appendicites avec complications
+2|XX|3|* Kystes synoviaux
+2|XX|4|Ulcères cutanés et cellulites
+2|XX|5|* Psychoses d'origine alcoolique
+2|XX|6|* CMA
+2|XX|7|* Rééducation thérapeutique
+3|XX|0|* Antécédents d'affections malignes
+3|XX|1|* Comas supérieurs à une heure
+3|XX|2|Infarctus aigus du myocarde
+3|XX|3|* Complications cardiovasculaires
+3|XX|4|* Pathologies cardiovasculaires sévères
+3|XX|5|Lésions malignes des seins
+3|XX|6|* Complications de l'accouchement
+3|XX|7|***Complications de l'ante partum***
+4|XX|0|* Problèmes non significatifs du nouveau-né
+4|XX|1|* Extrême immaturité et détresses respiratoires
+4|XX|2|* Prématurité
+4|XX|3|***Problèmes majeurs communs du nouveau-né***
+4|XX|4|Brûlures étendues
+4|XX|5|Séances d'épuration extrarénale
+4|XX|6|Séances de chimiothérapie pour tumeurs malignes
+4|XX|7|* Séances de radiothérapie
+5|XX|0|Accouchements (diagnostics)
+5|XX|1|*Surveillances de grossesse*
+5|XX|2|* Lésions traumatiques de la moelle épinière
+5|XX|3|* Fractures de la colonne vertébrale
+5|XX|4|* CMAS
+5|XX|5|* CMAS non traumatiques
+5|XX|6|Codes supprimés
+5|XX|7|Codes existant ou ayant existé
+6|XX|0|Lésions traumatiques intracrâniennes sévères
+6|XX|1|Autres lésions traumatiques intracrâniennes, sauf commotions
+6|XX|2|Leucémies aigües
+6|XX|3|Infections symptomatiques par le VIH
+6|XX|4|Diagnostics liés à l'infection par le VIH
+6|XX|5|Complications infectieuses de la maladie à VIH
+6|XX|6|Traumatismes
+6|XX|7|Traumatismes de la tête
+7|XX|0|Traumatismes du thorax
+7|XX|1|Traumatismes de l'abdomen
+7|XX|2|Traumatismes du bassin et de la colonne
+7|XX|3|Traumatismes du rein
+7|XX|4|Traumatismes de l'appareil génito-urinaire, sauf rein
+7|XX|5|Traumatismes du membre supérieur
+7|XX|6|Traumatismes du membre inférieur
+7|XX|7|Transfusions sanguines
+8|XX|0|Séropositivité et infections par le VIH
+8|XX|1|Diabète
+8|XX|2|Préparations à une irradiation externe
+8|XX|3|Irradiations
+8|XX|5|* Allogreffes de cellules souches hématopoïétiques
+8|XX|6|Motifs de séances
+8|XX|7|***Problèmes sévères communs du nouveau-né***
+9|XX|0|***Autres problèmes communs du nouveau-né***
+9|XX|1|***Problèmes majeurs spécifiques du nouveau-né de 2500 g et plus***
+9|XX|2|***Problèmes sévères spécifiques du nouveau-né de 2500 g et plus***
+9|XX|3|***Autres problèmes spécifiques du nouveau-né de 2500 g et plus***
+9|XX|4|***Problèmes majeurs spécifiques du nouveau-né de 2000 à 2499 g***
+9|XX|5|***Problèmes sévères spécifiques du nouveau-né de 2000 à 2499 g***
+9|XX|6|***Autres problèmes spécifiques du nouveau-né de 2000 à 2499 g***
+9|XX|7|***Problèmes majeurs ou sévères spécifiques du nouveau-né de 1500 à 1999 g***
+10|XX|0|***Autres problèmes spécifiques du nouveau-né de 1500 à 1999 g***
+10|XX|1|Complications majeures de l'accouchement
+10|XX|2|Autres complications de l'accouchement
+10|XX|3|Complications majeures de la césarienne
+10|XX|4|Autres complications de la césarienne
+10|XX|5|* Infections asymptomatiques par le VIH
+10|XX|6|Affections malignes du système hépatobiliaire et du pancréas
+10|XX|7|Tumeurs des reins et des voies urinaires
+11|XX|0|Affections malignes de l'appareil génital masculin
+11|XX|1|Tumeurs malignes de l'appareil génital féminin
+11|XX|2|Soins palliatifs
+11|XX|3|Interventions à visée esthétique
+11|XX|4|* Commotions cérébrales
+11|XX|5|* Fractures, entorses et luxations, toutes localisations
+11|XX|6|* Avortements médicaux
+11|XX|7|Interruptions volontaires de grossesse
+12|XX|0|* Nouveau-nés
+12|XX|1|* Brûlures
+12|XX|2|* Convulsions et céphalées
+12|XX|3|* Otites moyennes et infections des voies aériennes supérieures
+12|XX|4|* Bronchites et asthme
+12|XX|5|* Arythmies et troubles de la conduction
+12|XX|6|* Gastroentérites et maladies diverses de l'appareil digestif
+12|XX|7|* Pathologies rachidiennes relevant d'un traitement médical
+13|XX|0|* Traumatismes de la peau, des tissus souscutanés et des seins
+13|XX|1|Lithiases urinaires
+13|XX|2|* Troubles aigus de l'adaptation et du fonctionnement psychosocial
+13|XX|3|* Éthylisme aigu
+13|XX|4|* Effets toxiques des médicaments et autres produits
+13|XX|5|Séances d'hémodialyse
+13|XX|6|* Traumatismes de l'oeil
+13|XX|7|* Affections des seins
+14|XX|0|* Surveillances de greffes de rein
+14|XX|1|* Douleurs chroniques irréductibles
+14|XX|2|Surveillances de greffes de coeur
+14|XX|3|* Affections sévères de la colonne vertébrale
+14|XX|4|* CMA hors infarctus
+14|XX|5|Tumeurs malignes de l'appareil génital masculin
+14|XX|6|Tumeurs cérébrales
+14|XX|7|Tumeurs malignes de l'appareil digestif
+15|XX|0|Tumeurs malignes du système hépatobiliaire et du pancréas
+15|XX|1|Tumeurs malignes du tissu conjonctif
+15|XX|2|Tumeurs malignes de la thyroïde
+15|XX|3|Interventions de confort
+15|XX|4|* Séances de dialyse péritonéale automatisée
+15|XX|5|* Séances de dialyse péritonéale continue ambulatoire
+15|XX|6|Séances d'oxygénothérapie hyperbare en caisson
+15|XX|7|* Interventions à visée esthétique et de confort
+16|XX|0|***Lymphomes et leucémies***
+16|XX|1|GHS pour traitement des épilepsies rebelles
+16|XX|2|* Migraines et céphalées
+16|XX|3|* Convulsions hyperthermiques
+16|XX|4|GHS pour épilepsies rebelles
+16|XX|5|Aphérèses sanguines
+16|XX|6|* GHS pour les autres chimiothérapies
+16|XX|7|Mort-nés
+17|XX|1|Explorations et surveillance
+17|XX|2|Diabète avec atteinte oculaire
+17|XX|3|Infections aigües sévères des VAS de l'enfant
+17|XX|4|Infections aigües sévères des VAS de l'adulte
+17|XX|5|Bronchopneumopathies chroniques surinfectées
+17|XX|6|Diabète avec atteinte rénale
+17|XX|7|Séances de chimiothérapie pour affections non tumorales
+18|XX|0|Possible radiation partielle AVASTIN
+18|XX|1|Accidents vasculaires cérébraux non transitoires
+18|XX|2|Ulcères digestifs
+18|XX|3|Affections biliopancréatiques aigües
+18|XX|4|Hémorragies cérébrales
+18|XX|5|Affections oculaires sévères
+18|XX|6|Certaines lésions traumatiques
+18|XX|7|Fractures du rachis, cyphoses et scolioses
+19|XX|0|Exclusions radiation partielle Avastin
+19|XX|1|Fractures de la cheville et de l'arrière-pied
+19|XX|2|Fractures du bras et de l'avant-bras
+19|XX|3|Grossesses pathologiques,accouchements et affections du post-partum
+19|XX|4|Nouveau-nés, prématurés et affections de la période périnatale
+19|XX|5|Affections de la peau
+19|XX|6|Affections du sein
+19|XX|7|Infections ostéoarticulaires
+20|XX|1|Stomies
+20|XX|2|Affections rénales
+20|XX|3|Affections cardiaques
+20|XX|4|Affections pulmonaires
+20|XX|5|Affections hépatiques
+20|XX|6|Affections pancréatiques
+20|XX|7|CMA niveau 2
+21|XX|0|CMA niveau 3
+21|XX|1|CMA niveau 4
+21|XX|2|Diagnostics pénalisés pour le choix du DP
+21|XX|3|Diagnostics de la liste commune testés seuls pour la surveillance continue
+21|XX|4|Diagnostics de la liste commune avec acte pour la surveillance continue
+21|XX|5|Lésions traumatiques
+21|XX|6|Diagnostics principaux imprécis et T imprécis
+21|XX|7|Possible radiation partielle ALIMTA
+22|XX|0|Diagnostics de la liste spécifique aux enfants testés seuls pour la surveillance continue
+22|XX|1|Diagnostics de la liste spécifique aux enfants avec acte pour la surveillance continue
+22|XX|2|Accouchements en dehors d'un établissement de santé
+22|XX|3|Autres diagnostics d'accouchements
+22|XX|4|Problèmes majeurs des groupes chirurgicaux et des groupes médicaux 1 à 2
+22|XX|5|Problèmes sévères des groupes 1 à 2
+22|XX|6|Autres problèmes des groupes 1 à 2
+22|XX|7|Problèmes sévères des groupes 3 à 7
+23|XX|0|Autres problèmes des groupes 3 à 7
+23|XX|1|Autres diagnostics du postpartum ou du post abortum
+23|XX|2|Problèmes spécifiques des groupes 8 à 10
+23|XX|3|Autres diagnostics de l'ante partum
+23|XX|4|Complications du postpartum ou du post abortum
+23|XX|5|Diagnostics accouchements pour confirmation
+23|XX|6|GHS pour les IOA complexes établies après RCP
+23|XX|7|Résultats d'accouchements, mort-nés
+24|XX|0|Grossesse multiple
+24|XX|1|Complications sévères de la césarienne
+24|XX|2|Complications de l'accouchement
+24|XX|3|Complications sévères de l'accouchement
+24|XX|4|Complications des grossesses ectopiques
+24|XX|5|Autres complications de l'ante partum
+24|XX|6|Complications majeures de l'ante partum
+24|XX|7|Complications sévères de l'ante partum
+25|XX|0|GHS pour don d'ovocytes
+25|XX|1|Affections pour supplément ante partum
+25|XX|2|Dialyses péritonéales
+25|XX|3|Syndromes du canal carpien
+25|XX|4|Tumeurs malignes ORL
+25|XX|5|Certaines affections dentaires
+25|XX|6|Kystes et granulomes
+25|XX|7|Condylomes anogénitaux
+26|XX|0|Ongles incarnés et kystes
+26|XX|1|Lésions traumatiques de la peau, du tissu sous-cutané et des seins
+26|XX|2|Incontinence urinaire
+26|XX|3|Stérilité, polypes et motifs de soins liés à la reproduction
+26|XX|4|Complications spécifiques après chirurgie esthétique
+26|XX|5|Exclusions CMA chirurgie
+26|XX|6|Exclusions CMA racines en K
+26|XX|7|Exclusions CMA médecine
+27|XX|0|Exclusions CMA et allogreffes
+27|XX|1|Exclusions somnolence et certaines chirurgies
+27|XX|2|LISTES 106;265
+27|XX|3|LISTES 107;265
+27|XX|4|LISTES 110;265
+27|XX|5|LISTES 111;265
+27|XX|6|LISTES 145;265
+27|XX|7|LISTES 146;265
+28|XX|0|LISTES 147;265
+28|XX|1|LISTES 150;265
+28|XX|2|LISTES 151;265
+28|XX|3|LISTES 152;265
+28|XX|4|LISTES 176;267
+28|XX|5|LISTES 182;265
+28|XX|6|LISTES 183;265
+28|XX|7|LISTES 185;265;271
+29|XX|0|LISTES 186;265
+29|XX|1|LISTES 191;265
+29|XX|2|LISTES 192;267
+29|XX|3|LISTES 020;265
+29|XX|4|LISTES 201;265
+29|XX|5|LISTES 202;265
+29|XX|6|LISTES 203;265
+29|XX|7|LISTES 204;265
+30|XX|0|LISTES 205;265
+30|XX|1|LISTES 206;265
+30|XX|2|LISTES 021;265
+30|XX|3|LISTES 022;265
+30|XX|4|LISTES 024;265
+30|XX|5|LISTES 265;271
+30|XX|6|LISTES 032;266
+30|XX|7|LISTES 032;267
+31|XX|0|LISTES 035;265
+31|XX|1|LISTES 060;267
+31|XX|2|LISTES 061;267
+31|XX|3|LISTES 066;265
+31|XX|4|LISTES 066;267
+31|XX|5|Exclusion greffe de peau et chirurgie de la CMD 22
+31|XX|6|LISTES 265;315
+31|XX|7|GHS AVASTIN pour DMLA_DP
+32|XX|0|[valorisation] forfait innovation ECHOPULSE
+32|XX|1|[valorisation] forfait innovation RETINA IMPLANT
+32|XX|2|forfait diabète 
+32|XX|3|Tumeur de l'ovaire pour GHS majoré 
+32|XX|4|diagnostics DAS excluant la gradation 

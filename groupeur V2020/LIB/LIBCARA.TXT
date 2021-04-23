@@ -1,0 +1,398 @@
+00|0|Acte opératoire
+00|1|Craniotomies
+00|2|Interventions sur le rachis
+00|3|Interventions sur le système vasculaire extracrânien
+00|4|Libérations du canal carpien
+00|5|Autres interventions de la CMD 01
+00|6|Interventions sur la rétine
+00|7|Interventions sur l'orbite
+01|0|* Autres interventions intraoculaires
+01|1|Interventions sur le cristallin
+01|2|* Vitrectomies
+01|3|Interventions primaires sur l'iris
+01|4|Interventions extraoculaires sauf orbite
+01|5|Autres interventions sur la tête et le cou
+01|6|* Ablations de glandes salivaires
+01|7|* Interventions sur les glandes salivaires sauf ablations
+02|0|Réparations de fissures labiales et palatines
+02|1|Interventions sur les sinus et l'apophyse mastoïde
+02|2|* Interventions diverses sur l'oreille, le nez et la gorge
+02|3|Rhinoplasties
+02|4|Amygdalectomies et/ou adénoïdectomies isolées
+02|5|Interventions sur les amygdales et les végétations adénoïdes
+02|6|Drainages transtympaniques
+02|7|Autres interventions sur l'oreille, le nez et la gorge
+03|0|Interventions majeures sur le thorax
+03|1|Autres interventions sur le système respiratoire
+03|2|Transplantations cardiaques
+03|3|Interventions de remplacement valvulaire avec circulation extracorporelle
+03|4|Cathétérismes cardiaques et coronarographies (non opératoires)
+03|5|Pontages aortocoronariens
+03|6|Autres interventions de chirurgie cardiothoracique
+03|7|Actes sous circulation extracorporelle
+04|0|Autres interventions de chirurgie vasculaire
+04|1|Interventions majeures de revascularisation
+04|2|Amputations autres que membre supérieur et orteils
+04|3|Amputations de membre supérieur et d'orteils
+04|4|Poses d'un stimulateur cardiaque permanent
+04|5|* Remplacement et révision  de système d'entraînement cardiaque
+04|6|Remplacements ou ablations chirurgicales d'électrodes ou de boîtiers de stimulateur cardiaque
+04|7|Ligatures de veines et éveinages
+05|0|Autres interventions sur le système circulatoire
+05|1|Résections rectales
+05|2|Interventions majeures sur le côlon et l'intestin grêle
+05|3|Interventions sur l'oesophage, l'estomac et le duodénum
+05|4|Libérations d'adhérences péritonéales
+05|5|Interventions mineures sur le côlon et l'intestin grêle
+05|6|Appendicectomies
+05|7|Interventions réparatrices pour hernies abdominales
+06|0|***Interventions réparatrices pour hernies et éventrations sauf hernies inguinales et crurales***
+06|1|Interventions sur le rectum et l'anus sauf résections rectales
+06|2|Lithotrities extracorporelles de l'appareil urinaire (non opératoires)
+06|3|Autres interventions sur l'appareil digestif en dehors des laparotomies
+06|4|Certaines extractions, réparations et prothèses dentaires (non opératoires)
+06|5|* Interventions majeures sur le pancréas, le foie et le shunt veineux
+06|6|* Interventions mineures sur le pancréas, le foie et le shunt veineux
+06|7|Cholécystectomies isolées
+07|0|* Explorations de la voie biliaire principale
+07|1|* Interventions sur les voies biliaires
+07|2|Interventions diagnostiques sur le système hépatobiliaire et le pancréas
+07|3|Autres interventions sur le système hépatobiliaire et le pancréas
+07|4|Interventions majeures multiples sur le genou et/ou la hanche
+07|5|* Interventions majeures sur les articulations et greffes de membre
+07|6|Interventions sur la hanche et la cuisse sauf prothèses de hanche
+07|7|Greffes de peau
+08|0|Amputations
+08|1|Autres interventions sur la colonne vertébrale
+08|2|Biopsies ostéoarticulaires
+08|3|* Autres interventions sur le membre inférieur (sauf hanche, fémur, pied) et l'humérus
+08|4|Interventions sur le genou
+08|5|Résections osseuses localisées et ablations de matériel de fixation : hanche et fémur
+08|6|Résections osseuses localisées et ablations de matériel de fixation : autres localisations
+08|7|* Interventions sur le membre supérieur sauf humérus et main
+09|0|Interventions sur le pied
+09|1|Interventions sur le tissu mou
+09|2|* Interventions sur la main
+09|3|* Arthroscopies
+09|4|Autres interventions de la CMD 08
+09|5|Greffes de peau et parages de plaie
+09|6|Interventions sur les seins
+09|7|Mastectomies totales
+10|0|Interventions sur les seins sauf biopsies et excisions locales
+10|1|Interventions sur la région anale et périanale
+10|2|Interventions plastiques sur la peau et les tissus souscutanés
+10|3|Autres interventions sur la peau, les tissus souscutanés et les seins
+10|4|* Amputations CMD 10
+10|5|* Interventions sur l'hypophyse et les glandes surrénales
+10|6|* Greffes cutanées et parages de plaies CMD 10
+10|7|Autres interventions pour obésité
+11|0|Interventions sur les glandes parathyroïdes
+11|1|Interventions sur la glande thyroïde
+11|2|Interventions sur le tractus thyréoglosse
+11|3|Autres interventions de la CMD 10
+11|4|Transplantations rénales
+11|5|Interventions sur le rein, l'uretère et majeures sur la vessie
+11|6|* Prostatectomies
+11|7|Interventions mineures sur la vessie
+12|0|Interventions transurétrales ou par voie transcutanée, sauf prostatectomies
+12|1|Interventions sur l'urètre
+12|2|Autres interventions sur le rein et les voies urinaires
+12|3|Interventions majeures sur le pelvis chez l'homme
+12|4|Interventions sur le pénis
+12|5|Prostatectomies transurétrales
+12|6|Interventions sur les testicules
+12|7|Circoncisions
+13|0|Autres interventions sur l'appareil génital masculin
+13|1|Eviscérations pelviennes, hystérectomies radicales et vulvectomies
+13|2|Hystérectomies non radicales
+13|3|Interventions réparatrices sur l'appareil génital féminin
+13|4|Interventions sur le système utéroannexiel
+13|5|Interruptions tubaires
+13|6|Interventions sur la vulve, le vagin et le col utérin
+13|7|Coelioscopies exploratrices sauf pour interruption tubaire
+14|0|Ligatures tubaires par coelioscopie
+14|1|Dilatations et curetages, ou conisations
+14|2|Autres interventions sur l'appareil génital féminin
+14|3|Interventions et accouchements par voie basse
+14|4|Interventions par césariennes
+14|5|* Stérilisations et/ou dilatations et curetages
+14|6|Autres interventions au cours de l'accouchement
+14|7|Dilatations et curetages
+15|0|Interventions sur la rate
+15|1|Autres interventions de la CMD 16
+15|2|***Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus***
+15|3|* Endoscopies (non opératoires)
+15|4|* Cures de désintoxication (non opératoires)
+15|5|Greffes de peau pour blessures
+15|6|***Débridements de lésions pour blessures***
+15|7|Interventions sur la main suite à des blessures
+16|0|Autres interventions pour blessures et complications d'acte
+16|1|Greffes de peau pour brûlures
+16|2|Débridements de lésions et autres interventions pour brûlures
+16|3|Interventions sur la bouche
+16|4|* Endoscopies thérapeutiques sur l'appareil digestif
+16|5|* Endoscopies thérapeutiques hépato-biliaires et pancréatiques
+16|6|Codes ayant été utilisés mais abandonnés
+16|7|Codes utilisés ou ayant été utilisés
+17|0|* Accouchements (actes)
+17|1|Greffes de cellules souches hématopoïétiques (non opératoires)
+17|2|Transplantations hépatiques
+17|3|Transplantations pancréatiques
+17|4|Transplantations pulmonaires
+17|5|* Résections osseuses localisées et ablations de matériel de fixation
+17|6|Dialyses rénales (non opératoires)
+17|7|Interventions sur le foie, le pancréas et les veines porte ou cave
+18|0|Actes opératoires de la CMD 01
+18|1|Actes opératoires de la CMD 02
+18|2|Actes opératoires de la CMD 03
+18|3|Actes opératoires de la CMD 04
+18|4|Actes opératoires de la CMD 05
+18|5|Actes opératoires de la CMD 06
+18|6|Actes opératoires de la CMD 07
+18|7|Actes opératoires de la CMD 08
+19|0|Actes opératoires de la CMD 09
+19|1|Actes opératoires de la CMD 10
+19|2|Actes opératoires de la CMD 11
+19|3|Actes opératoires de la CMD 12
+19|4|Actes opératoires de la CMD 13
+19|5|[W-publication]Actes opératoires de la CMD 14
+19|7|Actes opératoires de la CMD 16
+20|0|[W-publication]Actes opératoires de la CMD 17
+20|4|Actes opératoires de la CMD 21
+20|5|Actes opératoires de la CMD 22
+20|6|* Greffes de cellules souches hématopoïétiques de la CM24 (non opératoires)
+20|7|Actes opératoires de la CM 27
+22|0|* Endoscopies habituellement réalisées avec anesthésie (non opératoires)
+22|1|* Endoscopies généralement non réalisées avec anesthésie (non opératoires)
+22|2|[W-cohéractes]Anesthésies (non opératoires)
+22|3|Mises en place de certains accès vasculaires (non opératoires)
+22|4|***Dosimétries tridimensionnelles (non opératoires)***
+22|5|Techniques spéciales d'irradiation externe (non opératoires)
+22|6|***Irradiations externes avec plus de deux faisceaux (non opératoires)***
+22|7|Endoprothèses coronariennes et vasculaires périphériques (non opératoires)
+23|0|Actes reclassant les RSS dans un GHM médical
+23|1|Interventions sur l'hypophyse
+23|2|Interventions sur les glandes surrénales
+23|3|***Autres curiethérapies et irradiations internes (non opératoires)***
+23|4|Explorations nocturnes et apparentées (non opératoires)
+23|5|Allogreffes de cellules souches hématopoïétiques (non opératoires)
+23|6|***Interventions majeures pour malformations digestives***
+23|7|Entraînements à la dialyse péritonéale automatisée (non opératoires)
+24|0|Entraînements à la dialyse péritonéale continue ambulatoire (non opératoires)
+24|1|***Irradiations externes avec un et deux faisceaux (non opératoires)***
+24|2|Créations et réfections des fistules artérioveineuses
+24|3|* Actes non mineurs de la CMD 02
+24|4|* Actes non mineurs de la CMD 03
+24|5|* Actes non mineurs sur la main
+24|6|Poses d'un défibrillateur cardiaque
+24|7|Autres actes thérapeutiques par voie vasculaire (non opératoires)
+25|0|Hémorroïdectomies
+25|1|* Evacuations d'ascite (non opératoires)
+25|2|Interventions majeures sur la colonne vertébrale
+25|3|Curiethérapies de la prostate (non opératoires)
+25|4|* Autres interventions sur l'appareil génital féminin sous coelioscopie
+25|5|Prélèvements d'ovocytes
+25|6|Poses d'un stimulateur cérébral
+25|7|Poses d'un stimulateur médullaire et radiculaire
+26|0|Embolisations intracrâniennes et médullaires (non opératoires)
+26|1|Autres actes thérapeutiques par voie vasculaire de la CMD 01 (non opératoires)
+26|2|Poses d'implants cochléaires
+26|3|Interventions pour reprise de prothèses articulaires
+26|4|Prothèses de hanche
+26|5|Prothèses de genou
+26|6|Prothèses d'épaule
+26|7|Gastroplasties pour obésité
+27|0|Curiethérapies et irradiations internes (non opératoires)
+27|1|Actes de dialyse réalisés en hospitalisation
+27|2|Actes de radiothérapies réalisés en hospitalisation
+27|3|Actes de réanimation nécessitant une occurrence
+27|4|Actes de réanimation nécessitant plusieurs occurrences
+27|5|Actes de prélèvements d'organes
+27|6|Actes diagnostiques par voie vasculaire de la CMD 05 (non opératoires)
+27|7|***Traitements des troubles du rythme par voie vasculaire (non opératoires)***
+28|0|Allogreffes de cornée
+28|1|Ostéotomies de la face
+28|2|* Embolisations (non opératoires)
+28|3|* Actes thérapeutiques par voie vasculaire sauf endoprothèses et embolisations (non opératoires)
+28|4|* Endoscopies de la CM 24 (non opératoires)
+28|5|Endoscopies des voies biliaires (non opératoires)
+28|6|Endoscopies biliaires thérapeutiques (non opératoires)
+28|7|* Endoscopies biliaires diagnostiques (non opératoires)
+29|0|* Endoscopies digestives (non opératoires)
+29|1|Endoscopies digestives thérapeutiques (non opératoires)
+29|2|Endoscopies digestives diagnostiques (non opératoires)
+29|3|Endoscopies urinaires (non opératoires)
+29|4|Endoscopies génito-urinaires thérapeutiques (non opératoires)
+29|5|Endoscopies génito-urinaires diagnostiques (non opératoires)
+29|6|Endoscopies ORL (non opératoires)
+29|7|Endoscopies bronchiques (non opératoires)
+30|0|Interventions de reconstruction de l'oreille moyenne
+30|1|Interventions pour oreilles décollées
+30|2|Dérivations biliaires
+30|3|Autres interventions sur les voies biliaires sauf cholécystectomies isolées
+30|4|Interventions maxillofaciales
+30|5|Entraînements à l'hémodialyse (non opératoires)
+30|6|* Pose et ajustement de défibrillateur cardiaque
+30|7|* Pose et ajustement de stimulateur cardiaque
+31|0|GHS pour transplantations coeur-poumons
+31|1|GHS pour protonthérapie
+31|2|GHS pour caissons hyperbares
+31|3|***GHS pour acte lourd de rythmologie***
+31|4|GHS pour stimulateurs triple chambre
+31|5|Actes CCAM : gestes complémentaires
+31|6|Prestations de dialyse péritonéale
+31|7|Actes CCAM : activité 1
+32|0|Actes CCAM : activité 2
+32|1|Actes CCAM : activité 3
+32|2|Actes CCAM : activité 5
+32|3|Actes CCAM : actes principaux
+32|4|Actes CCAM : gestes complémentaires à contrôler
+32|5|Actes CCAM : codes autorisant un geste complémentaire
+32|6|Prestations d'hémodialyse
+32|7|Actes de prélèvements d'organes : foie
+33|0|Actes de prélèvements d'organes : rein
+33|1|Actes de prélèvements d'organes : coeur
+33|2|Actes de prélèvements d'organes : poumon
+33|3|Actes de prélèvements d'organes : intestin
+33|4|Actes de prélèvements d'organes : pancréas
+33|5|Interventions digestives autres que gastroplasties pour obésité
+33|6|GHS pour implantation d'électrodes cérébrales
+33|7|GHS pour TUNA
+34|0|GHS pour intervention de Longo
+34|1|GHS pour irradiation corporelle totale
+34|2|GHS pour la pose d'une assistance circulatoire mécanique ventriculaire
+34|3|GHS pour les destructions de l'endomètre par thermocontact
+34|4|Autres transplantations
+34|5|Injections de toxine botulique (non opératoires)
+34|6|Blocs sympathiques médicamenteux (non opératoires)
+34|7|Actes classant non opératoires de la CMD 03
+35|0|***Varices avec acte autre que ligature et éveinage (non opératoires)***
+35|1|Autres tractions continues et réductions progressives (non opératoires)
+35|2|Biopsies prostatiques (non opératoires)
+35|3|Stérilisation
+35|4|Interventions sur la jambe
+35|5|Interventions sur la cheville et l'arrière-pied
+35|6|Interventions sur les ligaments croisés sous arthroscopie
+35|7|Interventions sur le bras, coude et épaule
+36|0|Autres arthroscopies du genou
+36|1|Interventions sur l'avant-bras
+36|2|Arthroscopies : autres localisations
+36|3|Interventions sur le poignet
+36|4|Interventions majeures sur les tissus mous
+36|5|Interventions majeures sur la main
+36|6|Autres interventions sur la main
+36|7|Ménisectomies sous arthroscopie
+37|0|Autres interventions sur les tissus mous
+37|1|Interventions sous thoracoscopie
+37|2|Interventions sur les glandes salivaires
+37|3|Autres interventions sur l'appareil digestif par laparotomie
+37|4|Tractions continues et réductions progressives : hanche et fémur (non opératoires)
+37|5|Certains soins de stomies
+37|6|Interventions majeures sur la tête et le cou
+37|7|Reconstructions du sein
+38|0|Cervicocystopexies
+38|1|Remplacements de stimulateur cardiaque
+38|2|GHS pour valves aortiques percutanées
+38|3|GHS pour cyberknife par machine dédiée
+38|4|GHS pour aphérèses sanguines
+38|5|GHS pour gammaknife
+38|6|Actes des GHM avec actes classant non opératoires thérapeutiques
+38|7|Actes de surveillance continue testés seuls
+39|0|Actes des GHM avec actes classant non opératoires de moins de 2 jours
+39|1|Autres actes des GHM avec actes classant non opératoires et opératoires mineurs
+39|2|Interventions pour hypertonie intraoculaire
+39|3|RCMI
+39|4|Interventions sur le cristallin, vitrectomies et autres interventions intraoculaires
+39|5|Autres interventions intraoculaires et vitrectomies
+39|6|***Autres actes d'irradiation externe***
+39|7|[W-cohéractes]Actes d'accouchement voie basse
+40|0|GHS pour valves cardiaques multiples
+40|1|GHS pour allogreffes de cornée par greffon amniotique
+40|2|GHS pour mastectomies et reconstructions immédiates
+40|3|***GHS particulier pour l'obtention du GHS 9610 de techniques spéciales***
+40|4|***GHS particulier pour l'obtention du GHS 9621 de cyberknife***
+40|5|RCMI et techniques spéciales
+40|6|Dosimétries tridimensionnelles  avec HDV
+40|7|Dosimétries tridimensionnelles sans HDV
+41|0|Autres préparations à l'irradiation externe
+41|1|Irradiations externes avec système de repositionnement
+41|2|Irradiations externes avec collimateur multilame ou imagerie portale
+41|3|Autres irradiations externes
+41|4|Traitements majeurs de troubles du rythme par voie vasculaire (non opératoires) 
+41|5|Autres traitements de troubles du rythme par voie vasculaire (non opératoires)
+41|6|Actes d'accouchements 
+41|7|GHS pour RCMI hors tomothérapie
+42|0|GHS pour techniques spéciales hors exceptions
+42|1|Interventions pour GEU
+42|2|GHS pour RCMI avec machine dédiée
+42|3|GHS pour préparation du gammaknife
+42|4|GHS pour stéréotaxie fractionnée par machine non dédiée
+42|5|***GHS pour irradiation de contact endocavitaire***
+42|6|Actes CCAM avec activité 1 fictive
+42|7|GHS pour stéréotaxie en dose unique par machine dédiée
+43|0|GHS pour stéréotaxie en dose unique par machine non dédiée
+43|1|Actes réservés aux hommes
+43|2|Accouchements voie basse chez une primipare
+43|3|Accouchements (grande liste)
+43|4|Interventions majeures digestives
+43|5|Interventions majeures cardiaques
+43|6|Interventions sur les amygdales
+43|7|Interventions sur les végétations adénoïdes
+44|0|Liste soustractive à l'ensemble des actes classants opératoires
+44|1|Actes d'irradiation en dose unique
+44|2|Actes réservés aux nouveau-nés
+44|3|GHS pour prélèvement de rein sur un donneur vivant
+44|4|Actes se terminant par un avortement
+44|5|Libérations de nerfs sauf canal carpien
+44|6|Interventions sur les muscles oculomoteurs
+44|7|Interventions sur l'oreille externe
+45|0|Actes interventionnels majeurs (non opératoires)
+45|1|Poses de bioprothèses de valves cardiaques (non opératoires)
+45|2|Actes thérapeutiques sur les orifices du coeur (non opératoires)
+45|3|Ablations, repositionnements et poses de sondes de stimulation supplémentaires (non opératoires)
+45|4|Dilatations coronaires et autres actes thérapeutiques sur le coeur (non opératoires)
+45|5|Actes thérapeutiques sur les artères (non opératoires)
+45|6|Actes thérapeutiques sur les veines et accès vasculaires (non opératoires)
+45|7|Cures d'éventrations post-opératoires
+46|0|Interventions sur la jambe sauf libérations articulaires
+46|1|Arthroscopies de l'épaule
+46|2|Synovectomies et ténosynovectomies du poignet
+46|3|Greffes de peau ou parages de plaies sauf actes sur les ongles
+46|4|Certains curages ganglionnaires
+46|5|Myomectomies
+46|6|Exérèses et destructions de lésions du col utérin
+46|7|Injections de toxine botulique dans l'appareil urinaire
+47|0|Interventions réparatrices pour hernies sauf inguinales, crurales et eventrations
+47|1|Actes thérapeutiques par voie vasc. sur le système hépatobiliaire (non opératoires)
+47|2|GHS majoré pour pose de bioprothèses de valves cardiaques
+47|3|Interventions majeures pour infections ostéoarticulaires
+47|4|Interventions majeures de la CMD17
+47|5|Interventions intermédiaires de la CMD17
+47|6|Autres curiethérapies
+47|7|Irradiations internes
+48|0|GHS pour chirurgie de transsexualisme
+48|1|GHS pour détection isotopique de ganglion sentinelle
+48|2|GHS pour acte d'anatomie pathologie pour ganglion sentinelle
+48|3|[valorisation] forfait innovation HIFU
+48|4|GHS AVASTIN pour DMLA_acte d'injection
+48|5|GHS AVASTIN pour DMLA_tout acte sauf injection
+48|6|GHS pour cataracte combinée à une intervention rétinienne
+48|7|GHS pour mesure de la FFR coronarienne
+49|0|GHS, acte associé à la mesure de la FFR coronarienne
+49|1|arrêté prestation - FFM - lésions traumatiques
+49|2|arrêté prestation - FFM - tissus
+49|3|arrêté prestation - FFM - orbite, oeil
+49|4|arrêté prestation - FFM - face
+49|5|arrêté prestation - FFM - membre supérieur/inférieur
+49|6|arrêté prestation - SE1
+49|7|arrêté prestation - SE2
+50|0|arrêté prestation - SE3
+50|1|arrêté prestation - SE4
+50|2|arrêté prestation - SE5
+50|3|[valorisation] forfait innovation  ECHOPULSE
+50|4|arrêté prestation - SE6
+50|5|Thermoplastie bronchique (pour GHS majorés)
+50|7|Chimio embolisation hépatique (supplément)
+51|0|Actes classants
+51|1|Transfusions excluants la gradation HDJ
+51|2|Autres actes excluant la gradation HDJ

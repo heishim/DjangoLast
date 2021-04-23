@@ -1,0 +1,44 @@
+00|Détermination de la CMD (du DP)
+01|Détermination de la DxCat (du DP)
+02|Un acte au moins a la caractéristique
+03|Age >  
+04|Age > 69 et/ou un des DAS a la caractéristique
+05|Le DP a la caractéristique
+06|Un des DAS a la caractéristique
+07|Le DP, le DR, ou un des DAS a la caractéristique
+08|Tous les diagnostics ont la caractéristique
+09|Tous les actes 00.0 ont aussi la caractéristique
+10|Au moins 2 actes ont la caractéristique
+11|Le mode de sortie est inclus dans
+12|Instruction: résultat du groupage (CMD/GHM/ERR)
+13|La DxCat (du DP) est égale à
+14|Le sexe est égal à
+15|Combinaison séance-durée incluse dans
+16|Poids à l'entrée supérieur à
+17|Hospitalisation antérieure
+18|Au moins 2 diagnostics ont la caractéristique
+19|Le mode de sortie ou la destination est égal à
+20|Instruction: Aller au noeud n°
+21|L'IGS est supérieur à
+22|La durée de séjour est inférieure à
+23|Instruction: DR --> DAS, blanchir DR et aller au noeud n°
+24|Instruction: ressusciter DR et aller au noeud n°
+25|Lecture de l'octet P1 du DR
+26|Le DR a la caractéristique
+27|L'octet n° P1 du DR est égal à
+28|Instruction: positionner l'err n°P1 et aller au noeud n°
+29|La durée de séjour est égale à
+30|Le nombre de séances est égal à
+31|Au moins un diagnostic n'a pas la caractéristique
+32|Au moins un acte n'a pas la caractéristique
+33|Activité de l'acte CCAM = p1
+34|Inversion DP->DR
+35|Inversion DP et DR réalisée
+36|Le DP ou un des DAS ont la caractéristique
+37|Nb faisceaux >
+38|P1<=[groupe de la racine]<=P2
+39|Déterminer groupe racine
+40|Annuler erreurs 222 ou 080
+41|Au moins un diag avec la DXCAT
+42|Poids à l'entrée supérieur strictement à 0 et strictement inférieur à
+43|Le DP ou un des DAS ont la DXCAT
